@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gardaskeland
-- 👀 I’m interested in algorithms, parameterised complexity, discrete mathematics, machine learning, metaheuristics etc.
-- 🌱 I’m currently taking a master degree in algorithms at the University of Bergen.
-- 💞️ I’m not looking to collaborate on anything at the moment.
+- Master in computer science with specialization in algorithms from University of Bergen
+- Working in corporate IT in Bergen
+- This account is for my university projects and hobby projects
 - 📫 How to reach me: E-mail: gardaskeland@gmail.com
 
 <!---
